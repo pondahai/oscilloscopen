@@ -1,3 +1,3 @@
 Project type: KiCAD
-![](./osilloscopen.jpg)
+![](osilloscopen.png)
 ![](1_yteFHVnUbEGnJ-Qrp3JsFg.png)
